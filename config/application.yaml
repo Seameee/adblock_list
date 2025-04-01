@@ -77,8 +77,6 @@ application:
       - name: uBlockOrigin privacy
         path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt
 
-      - name: Telemetry Lists - Aggregated
-        path: https://raw.githubusercontent.com/SystemJargon/filters/refs/heads/main/telemetry.txt
 
 
     local:
@@ -88,9 +86,9 @@ application:
 
   output:
     file_header: |
-      Title: xndeye adblock list of ${type}
+      Title: seamee adblock list of ${type}
       Last Modified: ${date}
-      Homepage: https://github.com/xndeye/adblock_list
+      Homepage: https://github.com/seamee/adblock_list
 
     files:
       - name: easylist.txt
@@ -103,9 +101,9 @@ application:
       - name: dns.txt
         type: easylist
         file_header: |
-          Title: xndeye adblock list of dns 
+          Title: seamee adblock list of dns 
           Last Modified: ${date}
-          Homepage: https://github.com/xndeye/adblock_list
+          Homepage: https://github.com/seamee/adblock_list
         filter:
           - basic
           - wildcard
