@@ -47,6 +47,18 @@ application:
         path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
         type: easylist
 
+      - name: EasyList
+        path: https://easylist-downloads.adblockplus.org/easylist.txt
+        type: easylist
+
+      - name: EasyList China
+        path: https://easylist-downloads.adblockplus.org/easylistchina.txt
+        type: easylist
+
+      - name: EasyPrivacy
+        path: https://easylist-downloads.adblockplus.org/easyprivacy.txt
+        type: easylist
+        
       - name: AWAvenue-Adblock-Rule
         path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
         type: easylist
@@ -59,6 +71,9 @@ application:
         path: https://raw.githubusercontent.com/xndeye/web-ad-rule/master/easylist.txt
         type: easylist
 
+      - name: xinggsf rule
+        path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+        
       - name: xinggsf movie
         path: https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
 
@@ -76,6 +91,19 @@ application:
 
       - name: uBlockOrigin privacy
         path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt
+        
+      - name: 1Hosts (Lite)
+        path: https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+
+      - name: hagezi dns-blocklists
+        path: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
+
+      - name: OISD Basic
+        path: https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/OISD_Basic.txt
+
+      - name: StevenBlack hosts
+        path: https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/StevenBlack_hosts.txt
+        type: hosts
 
 
 
