@@ -69,5 +69,5 @@
 | 6        | 217heidai rule                              | -           | [link](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
 | 7        | d3Host List by d3ward                        | hosts       | [link](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt) |
 | 8        | crazy-max/WindowsSpyBlocker                                | hosts       | [link](https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker@master/data/hosts/spy.txt) |
-| 10       | 大圣净化                                     | hosts       | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
-| 11       | 8680/GOODBYEADS 补充规则                     | -           | [link](https://raw.githubusercontent.com/8680/GOODBYEADS/refs/heads/master/data/mod/adblock.txt) |
+| 9       | 大圣净化                                     | hosts       | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
+| 10       | 8680/GOODBYEADS 补充规则                     | -           | [link](https://raw.githubusercontent.com/8680/GOODBYEADS/refs/heads/master/data/mod/adblock.txt) |
