@@ -39,11 +39,8 @@ application:
         path: https://raw.githubusercontent.com/xndeye/web-ad-rule/master/easylist.txt
         type: easylist
 
-      - name: 217heidai rule1
+      - name: 217heidai rule
         path: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-        
-      - name: 217heidai rule2
-        path: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
 
       - name: d3Host List by d3ward
         path: https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
