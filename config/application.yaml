@@ -69,9 +69,9 @@ application:
 
   output:
     file_header: |
-      Title: seamee adblock list of ${type}
+      Title: Seameee adblock list of ${type}
       Last Modified: ${date}
-      Homepage: https://github.com/seamee/adblock_list
+      Homepage: https://github.com/Seameee/adblock_list
 
     files:
       - name: easylist.txt
@@ -84,9 +84,9 @@ application:
       - name: dns.txt
         type: easylist
         file_header: |
-          Title: seamee adblock list of dns 
+          Title: Seameee adblock list of dns 
           Last Modified: ${date}
-          Homepage: https://github.com/seamee/adblock_list
+          Homepage: https://github.com/Seameee/adblock_list
         filter:
           - basic
           - wildcard
