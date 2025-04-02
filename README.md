@@ -1,3 +1,4 @@
+> 本仓库通过 [ad-filters-subscriber](https://github.com/fordes123/ad-filters-subscriber/) 构建
 ## 使用说明
 | 文件              | 说明                          |        github        |         ghproxy          |         jsdelivr          |
 |-----------------|:----------------------------|:--------------------:|:------------------------:|:-------------------------:|
