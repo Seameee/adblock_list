@@ -66,9 +66,8 @@
 | 3        | AdGuard 恼人广告过滤器                       | easylist    | [link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt) |
 | 4        | AdGuard 解除搜索广告和自我推销过滤器         | easylist    | [link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt) |
 | 5        | xndeye web-ad-rule                           | easylist    | [link](https://raw.githubusercontent.com/Seameee/web-ad-rule/master/easylist.txt) |
-| 6        | 217heidai rule1                              | -           | [link](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
-| 7        | 217heidai rule2                              | -           | [link](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt) |
-| 8        | d3Host List by d3ward                        | hosts       | [link](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt) |
-| 9        | crazy-max/WindowsSpyBlocker                                | hosts       | [link](https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker@master/data/hosts/spy.txt) |
+| 6        | 217heidai rule                              | -           | [link](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
+| 7        | d3Host List by d3ward                        | hosts       | [link](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt) |
+| 8        | crazy-max/WindowsSpyBlocker                                | hosts       | [link](https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker@master/data/hosts/spy.txt) |
 | 10       | 大圣净化                                     | hosts       | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) |
 | 11       | 8680/GOODBYEADS 补充规则                     | -           | [link](https://raw.githubusercontent.com/8680/GOODBYEADS/refs/heads/master/data/mod/adblock.txt) |
