@@ -65,7 +65,7 @@
 | 2        | AdGuard URL跟踪过滤器                        | easylist    | [link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt) |
 | 3        | AdGuard 恼人广告过滤器                       | easylist    | [link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt) |
 | 4        | AdGuard 解除搜索广告和自我推销过滤器         | easylist    | [link](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt) |
-| 5        | Seameee web-ad-rule                           | easylist    | [link](https://raw.githubusercontent.com/Seameee/web-ad-rule/master/easylist.txt) |
+| 5        | xndeye web-ad-rule                           | easylist    | [link](https://raw.githubusercontent.com/Seameee/web-ad-rule/master/easylist.txt) |
 | 6        | 217heidai rule1                              | -           | [link](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |
 | 7        | 217heidai rule2                              | -           | [link](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt) |
 | 8        | d3Host List by d3ward                        | hosts       | [link](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt) |
