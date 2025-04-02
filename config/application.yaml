@@ -35,10 +35,6 @@ application:
         path: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_10_Useful/filter.txt
         type: easylist
 
-      - name: NoAppDownload
-        path: https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
-        type: easylist
-
       - name: xndeye web-ad-rule
         path: https://raw.githubusercontent.com/xndeye/web-ad-rule/master/easylist.txt
         type: easylist
@@ -48,15 +44,6 @@ application:
         
       - name: 217heidai rule2
         path: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-      
-      - name: ABP filters
-        path: https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-
-      - name: ABP 反广告过滤
-        path: https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
-
-      - name: uBlockOrigin privacy
-        path: https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt
 
       - name: d3Host List by d3ward
         path: https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
@@ -65,6 +52,13 @@ application:
       - name: Sukka Ruleset
         path: https://ruleset.skk.moe/Clash/domainset/reject.txt
         type: clash
+      
+      - name: 大圣净化
+        path: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+        type: hosts
+
+      - name: 8680/GOODBYEADS 补充规则
+        path: https://raw.githubusercontent.com/8680/GOODBYEADS/refs/heads/master/data/mod/adblock.txt
 
 
 
